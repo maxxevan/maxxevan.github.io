@@ -1,0 +1,146 @@
+@import url('https://fonts.googleapis.com/css?family=Asap|Lato');
+
+
+nav ul {
+  padding-left: 0;
+  margin: 0;
+  list-style: none;
+}
+
+nav li {
+  display: inline-block;
+}
+
+nav {
+  text-align:center;
+  padding-bottom:15px;
+  display:none;
+}
+
+h1 {
+  float:right;
+  font-size: 55px;
+  text-align: center;
+  margin-right: 100px;
+  font-family: "Lato", sans-serif;
+  padding-right:40px;
+  margin-left:0;
+}
+
+h2 {
+  border-bottom: 2px solid;
+}
+
+#doccument{
+  max-width: 960px;
+  margin:0 auto;
+  padding-right: 25px;
+  padding-bottom:50px;
+
+  border: 1px solid #ccc;
+  box-shadow: 3px 3px 5px 0px rgba(0,0,0,0.25);
+}
+
+#sidebar {
+
+  background:url("untitled-4.png") repeat-y;
+  float:left;
+  max-width:250px;
+  margin: 0 0 0 0;
+  padding-top: 135px;
+  padding-left:30px;
+  border-right: 1px solid;
+  padding-right: 30px;
+  padding-bottom: 278px;
+  min-height:700px;
+  font-size: 12px;
+  font-family: 'Asap', sans-serif;
+
+}
+
+
+
+
+h3{
+  text-align: left;
+  font-size: 15px;
+  border-bottom: 1px solid;
+  margin-bottom:20px;
+
+}
+
+p{
+  margin-bottom:-10px;
+}
+
+#contact {
+  margin-bottom:40px;
+  #padding-bottom:20px;
+}
+
+#profile {
+  margin-bottom:40px;
+}
+
+#education {
+  margin-bottom:40px;
+}
+
+
+#interests {
+  margin-bottom:40px;
+}
+
+#interests p{
+  margin-bottom:-13px;
+}
+
+#accomplishments{
+  margin-bottom:40px;
+}
+#accomplishments p{
+  margin-bottom:10px;
+}
+
+#skills {
+  margin-left:-35px;
+}
+#skills li {
+  list-style: none;
+}
+
+#main {
+  position:relative;
+  max-width:710px;
+  margin-left: 330px;
+  padding-left:20px;
+  font-family: 'Asap', sans-serif;
+  margin-right:60px;
+  margin-top:100px;
+  clear:right;
+
+
+}
+
+
+
+
+
+article p {
+  display:inline-block;
+}
+article h4{
+  margin-bottom:-10px;
+
+}
+
+article div{
+  margin-bottom:-10px;
+}
+a {
+  color:rgb(0, 0, 255);
+}
+
+a:visited {
+  color:rgb(102, 0, 255);
+}
