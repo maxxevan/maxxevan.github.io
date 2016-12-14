@@ -1,0 +1,63 @@
+nav ul {
+  padding-left: 0;
+  margin: 0;
+  list-style: none;
+}
+
+nav li {
+  display: inline-block;
+}
+
+#home {
+  background: url("20160123-_MG_3601.jpg") no-repeat center center fixed;
+  background-size: cover;
+
+}
+
+
+
+h2{
+  text-align: center;
+}
+
+ul{
+  padding: 0%;
+}
+
+#right {
+  float:right;
+  padding-right: 100px;
+  margin-top: -23px;
+}
+
+#left {
+  float:left;
+  padding-left: 100px;
+  margin-top: -23px;
+}
+
+
+
+
+footer{
+  text-align:center;
+  margin-top: 550px;
+}
+
+#socialmedia ul {
+  padding-left: 0;
+  margin: 0;
+  list-style: none;
+}
+
+#socialmedia li {
+  display:inline-block;
+}
+
+
+
+
+
+h1 {
+  display:none;
+}

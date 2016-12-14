@@ -1,0 +1,48 @@
+@media print {
+}
+
+nav {
+  display:none;
+}
+
+@page {
+  margin: .5cm
+
+}
+
+#contact {
+  line-height: .8;
+}
+
+#interests {
+  line-height: .5;
+}
+
+article {
+  line-height: 1.5;
+}
+
+h4 p {
+  line-height: 1.5;
+}
+
+body {
+  font: 12pt Georgia, "Times New Roman", Times, serif;
+  line-height: 1.5;
+}
+
+h1 {
+  font-size: 24pt;
+}
+
+h2 {
+  font-size: 18pt;
+}
+
+h3 {
+  font-size: 16;
+}
+
+a {
+  text-decoration: none;
+}
